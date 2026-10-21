@@ -1,6 +1,3 @@
-Your repo has a much simpler, flatter structure than my first draft assumed—just `00_problem_set/` and `01_problem_set/` so far, each containing one folder per problem. Here’s a README rewritten to match exactly what you have.
-
----
 
 # CS50P Problem Sets — Solutions
 
@@ -9,7 +6,7 @@ Your repo has a much simpler, flatter structure than my first draft assumed—ju
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![CS50P](https://img.shields.io/badge/CS50P-2024-red)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ---
 
@@ -78,7 +75,6 @@ Some programs read from standard input — check the code or comments inside eac
 
 ## 📝 Notes
 
-- Solutions are written in **clear, beginner-friendly Python**, with comments where helpful.
 - Files are structured to match the expected input/output behavior from the CS50P specification.
 - Some solutions may differ stylistically from the staff solutions — that’s the point of solving it yourself.
 
@@ -105,12 +101,6 @@ Read Harvard’s [Academic Honesty Policy](https://cs50.harvard.edu/x/2024/hones
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use it for educational purposes.
-
----
-
 ## 🙏 Acknowledgments
 
 - **David J. Malan** and the entire CS50 team
@@ -122,12 +112,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use it f
 <div align="center">
 <sub>Happy coding! 🐍</sub>
 </div>
-
----
-
-A few things you can update as you go:
-
-- **Status badge**: change `in%20progress` to `complete` once you finish all weeks.
-- **Structure tree**: add `02_problem_set/`, `03_problem_set/`, etc. as you create them.
-- **Progress note**: update the “Weeks 0 and 1 complete” line each time you finish a new week.
-- **Final project**: if you add a `final_project/` folder later, add it to the tree and the table.
